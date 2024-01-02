@@ -38,7 +38,7 @@ public class Week01VariablesAndOperationsLab {
 		System.out.println("The person's middle initial is " + middleInitial);
 		System.out.println("It is hot outside - " + isHotOutside);
 		System.out.println("The customer's first name is: " + customerFirstName);
-		System.out.println(streetAddress + "is where the person lives");
+		System.out.println(streetAddress + " is where the person lives");
 	
 
 		// 8. A customer booked 2 plane seats, 
